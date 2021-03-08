@@ -4,7 +4,6 @@ client = discord.Client()
 
 token = '토큰'
 
-
 @client.event
 async def on_connect():
     with open('./setting.json', 'r') as boo:

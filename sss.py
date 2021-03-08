@@ -2,7 +2,7 @@ import discord, json, sys, time
 
 client = discord.Client()
 
-token = 'Nzc3MDI5MzYzODk1MTA3NjI0.X69e_A.zJr9rHZsNPfUeZLfCrfSjNnqMrg'
+token = '토큰'
 
 
 @client.event
